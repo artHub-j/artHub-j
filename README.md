@@ -29,6 +29,6 @@
   <a href="https://www.linkedin.com/in/arturo-a-0109b2ba/"><img src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=artHub-j)
-
 #
+
+![](https://komarev.com/ghpvc/?username=artHub-j)
