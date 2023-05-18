@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="50px" src="https://github.com/artHub-j/artHub-j/assets/92806890/569fc0b7-8de6-4aeb-aeb3-39600bd21c31"></a>
+</p>
+
 <h3 align="center">My Socials</h3>
 <p align="center">
   <a href="https://twitter.com/artuaragon_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
