@@ -1,5 +1,6 @@
-<p align="center">
+<p align="left">
   <img width="50px" src="https://github.com/artHub-j/artHub-j/assets/92806890/569fc0b7-8de6-4aeb-aeb3-39600bd21c31"></a>
+  Arturo Aragón
 </p>
 
 <h3 align="center">My Socials</h3>
