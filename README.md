@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Arturo Aragón</strong>
+  <strong>Arturo Aragón</strong> | artuaragon.dev@gmail.com
 </p>
 
 
