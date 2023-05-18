@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- ꧁Arturo Aragón꧂
+  ꧁<strong><em>Arturo Aragón</strong></em>꧂
 </p>
 
 
