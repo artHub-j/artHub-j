@@ -22,6 +22,9 @@
 <p align="center">
   <a href="https://twitter.com/artuaragon_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://instagram.com/artuaragon_"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/arturo-a-0109b2ba/"><img src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=artHub-j)
 
 #
