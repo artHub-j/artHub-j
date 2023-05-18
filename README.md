@@ -1,7 +1,11 @@
-<p align="left">
-  <img width="50px" src="https://github.com/artHub-j/artHub-j/assets/92806890/569fc0b7-8de6-4aeb-aeb3-39600bd21c31"></a>
-  Arturo Aragon
+<p align="center">
+  <img height="200px" src="https://github.com/artHub-j/artHub-j/assets/92806890/fcb1df1e-77cb-466f-a032-742ea098aaac"></a>
 </p>
+
+<p align="center">
+ 👤 Arturo Aragon
+</p>
+
 
 #
 
