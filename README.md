@@ -3,11 +3,7 @@
   Arturo Aragón
 </p>
 
-<h3 align="center">My Socials</h3>
-<p align="center">
-  <a href="https://twitter.com/artuaragon_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://instagram.com/artuaragon_"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
+#
 
 <h3 align="center">Languages and tools</h3>
 <p align="center">
@@ -20,6 +16,12 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
   <img src="https://img.shields.io/badge/OpenGL-0769AD?style=for-the-badge&logo=OpenGL&logoColor=white" alt="jQuery">
   <img src="https://img.shields.io/badge/MIPS-CC6699?style=for-the-badge&logo=MIPS&logoColor=white" alt="MIPS">
+</p>
+
+<h3 align="center">My Socials</h3>
+<p align="center">
+  <a href="https://twitter.com/artuaragon_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://instagram.com/artuaragon_"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 #
