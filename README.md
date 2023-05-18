@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- 👤 Arturo Aragon
+ 👤 Arturo Aragón
 </p>
 
 
