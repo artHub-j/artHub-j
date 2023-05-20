@@ -1,11 +1,11 @@
 <p align="center">
-  <img height="200px" src="https://github.com/artHub-j/artHub-j/assets/92806890/fcb1df1e-77cb-466f-a032-742ea098aaac"></a>
+<!--   <img height="200px" src="https://github.com/artHub-j/artHub-j/assets/92806890/fcb1df1e-77cb-466f-a032-742ea098aaac"></a> -->
+  <img height="150px" src="https://github.com/artHub-j/artHub-j/assets/92806890/ede997e9-df5b-4b58-822d-f837910c2c8f"></a>
 </p>
 
 <p align="center">
   <strong>Arturo Aragón</strong> | artuaragon.dev@gmail.com
 </p>
-
 
 #
 
