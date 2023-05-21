@@ -14,12 +14,13 @@
   <img src="https://img.shields.io/badge/C%2B%2B-DD0031?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black" alt="Python">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/RStudio-E34F26?style=for-the-badge&logo=RStudio&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/node.js-239120?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs">
+  <img src="https://img.shields.io/badge/R-E34F26?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
-  <img src="https://img.shields.io/badge/OpenGL-0769AD?style=for-the-badge&logo=OpenGL&logoColor=white" alt="jQuery">
-  <img src="https://img.shields.io/badge/GLSL-CC6699?style=for-the-badge&logo=GLSL&logoColor=white" alt="GLSL">
+  <img src="https://img.shields.io/badge/OpenGL-FCC624?style=for-the-badge&logo=OpenGL&logoColor=black="jQuery">
+  <img src="https://img.shields.io/badge/Figma-3A33D1?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Figma">
 </p>
 
 <h3 align="center">My Socials</h3>
