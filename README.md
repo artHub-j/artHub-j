@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <strong>Arturo Aragón</strong> | <a href="mailto:artuaragon.dev@gmail.com">artuaragon.dev@gmail.com</a>
+  <strong>Arturo Aragón</strong> | <a href="mailto:artuaragon.dev@gmail.com" style="color:yellow">artuaragon.dev@gmail.com</a>
 </p>
 
 #
