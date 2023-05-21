@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
   <img src="https://img.shields.io/badge/OpenGL-0769AD?style=for-the-badge&logo=OpenGL&logoColor=white" alt="jQuery">
-  <img src="https://img.shields.io/badge/MIPS-CC6699?style=for-the-badge&logo=MIPS&logoColor=white" alt="MIPS">
+  <img src="https://img.shields.io/badge/GLSL-CC6699?style=for-the-badge&logo=GLSL&logoColor=white" alt="GLSL">
 </p>
 
 <h3 align="center">My Socials</h3>
